@@ -13,9 +13,9 @@ Taskly is a Flutter application designed to help users manage their tasks effici
 
 ---
 
-## Screenshots
+## Screenshot
+![Screenshot_2025_0101_101039](https://github.com/user-attachments/assets/9260eb1a-8e7d-4bd0-a971-43006110d901)
 
-(Include screenshots of your app here if possible)
 
 ---
 
